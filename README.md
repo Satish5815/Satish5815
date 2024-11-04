@@ -13,6 +13,9 @@
 - **Tools**: Git, Webpack, Babel
 - **Databases**: MySQL
 
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satish5815&show_icons=true&hide=issues)
+
 
 
 ### 🔗 Connect with Me
