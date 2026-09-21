@@ -107,8 +107,6 @@ I'm a passionate Full Stack JavaScript Developer with 4+ years of experience bui
 💼 LinkedIn  
 https://www.linkedin.com/in/satish-kushawaha-38245a206/
 
-📧 Email  
-satishkushawaha89@gmail.com
 
 ---
 
