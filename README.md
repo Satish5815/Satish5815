@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Satish Kushwaha
 
-### 🚀 Full Stack JavaScript Developer | React.js | React Native | Next.js | Node.js
+### 🚀 Full Stack  Developer | React.js  | Next.js | Node.js | Python
 
 I'm a passionate Full Stack JavaScript Developer with 4+ years of experience building scalable web and mobile applications. I enjoy creating high-performance, user-friendly applications using modern JavaScript technologies while focusing on clean architecture, performance, and maintainability.
 
@@ -12,7 +12,7 @@ I'm a passionate Full Stack JavaScript Developer with 4+ years of experience bui
 - 🌐 Building scalable Web & Mobile Applications
 - 📱 React Native Developer
 - ⚡ Passionate about Performance Optimization
-- 🌱 Currently learning System Design, AWS & Microservices
+- 🌱 System Design, AWS & Microservices
 - 💡 Love solving complex frontend and backend problems
 - 🤝 Open to collaborating on Open Source Projects
 
@@ -40,7 +40,8 @@ I'm a passionate Full Stack JavaScript Developer with 4+ years of experience bui
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 ![Authentication](https://img.shields.io/badge/Auth-JWT-green?style=for-the-badge)
-
+![Python](https://img.shields.io/badge/Python?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI?style=for-the-badge)
 ---
 
 ### Database
@@ -78,13 +79,11 @@ I'm a passionate Full Stack JavaScript Developer with 4+ years of experience bui
 - Next.js
 - Node.js
 - Express.js
+- Python
+- FastAPI
+- Pydantic
 - MongoDB
 - TypeScript
-
----
-
-## 📚 Currently Learning
-
 - AWS
 - Docker
 - Kubernetes
