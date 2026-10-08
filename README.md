@@ -40,8 +40,8 @@ I'm a passionate Full Stack JavaScript Developer with 4+ years of experience bui
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 ![Authentication](https://img.shields.io/badge/Auth-JWT-green?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ---
 
 ### Database
