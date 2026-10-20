@@ -1,26 +1,30 @@
 # 👋 Hi, I'm Satish Kushwaha
 
-### 🚀 Full Stack  Developer | React.js  | Next.js | Node.js | Python
+### 🚀 Full Stack Developer | React.js | Next.js | Node.js | Python | Golang | Microservices
 
-I'm a passionate Full Stack JavaScript Developer with 4+ years of experience building scalable web and mobile applications. I enjoy creating high-performance, user-friendly applications using modern JavaScript technologies while focusing on clean architecture, performance, and maintainability.
+I'm a passionate Full Stack Developer with 4+ years of experience building scalable web and mobile applications. I enjoy developing high-performance, user-friendly applications using modern frontend and backend technologies, with a focus on clean architecture, performance optimization, scalability, and maintainability.
 
 ---
 
 ## 💫 About Me
 
 - 💼 Full Stack Developer with 4+ years of experience
-- 🌐 Building scalable Web & Mobile Applications
+- 🌐 Building scalable web and mobile applications
 - 📱 React Native Developer
-- ⚡ Passionate about Performance Optimization
-- 🌱 System Design, AWS & Microservices
-- 💡 Love solving complex frontend and backend problems
-- 🤝 Open to collaborating on Open Source Projects
+- ⚛️ Frontend development with React.js, Next.js, and TypeScript
+- ⚙️ Backend development with Node.js, Express.js, Python, FastAPI, and Go
+- 🧩 Exploring microservices architecture and distributed systems
+- 🔗 Building REST APIs and backend integrations
+- ☁️ Learning and working with AWS, Docker, Kubernetes, and CI/CD
+- ⚡ Passionate about performance optimization and system design
+- 🤝 Open to collaborating on open-source projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -33,21 +37,40 @@ I'm a passionate Full Stack JavaScript Developer with 4+ years of experience bui
 
 ---
 
-### Backend
+### Backend & Programming Languages
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-![Authentication](https://img.shields.io/badge/Auth-JWT-green?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+
 ---
 
-### Database
+### Microservices & System Design
+
+![Microservices](https://img.shields.io/badge/Microservices-00599C?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-6A5ACD?style=for-the-badge)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF9900?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
+- Microservices architecture
+- REST API design and service integration
+- Authentication and authorization
+- Distributed systems fundamentals
+- Caching, scalability, and fault tolerance
+- Containerization and deployment
+
+---
+
+### Database & Caching
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 
 ---
 
@@ -60,8 +83,9 @@ I'm a passionate Full Stack JavaScript Developer with 4+ years of experience bui
 
 ---
 
-### Tools & Technologies
+### Cloud, DevOps & Tools
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack)
@@ -72,24 +96,16 @@ I'm a passionate Full Stack JavaScript Developer with 4+ years of experience bui
 
 ---
 
-## 🚀 Currently Working With
+## 🚀 Currently Exploring
 
-- React.js
-- React Native
-- Next.js
-- Node.js
-- Express.js
-- Python
-- FastAPI
-- Pydantic
-- MongoDB
-- TypeScript
-- AWS
-- Docker
-- Kubernetes
-- System Design
-- CI/CD
-- Microservices
+- Go (Golang) backend development
+- Building microservices using Go, Node.js, and Python
+- System design and distributed architectures
+- FastAPI and Pydantic
+- AWS cloud services and serverless architecture
+- Docker and Kubernetes
+- Caching and asynchronous processing
+- CI/CD and cloud deployment
 
 ---
 
@@ -103,10 +119,8 @@ I'm a passionate Full Stack JavaScript Developer with 4+ years of experience bui
 
 ## 📫 Connect With Me
 
-💼 LinkedIn  
-https://www.linkedin.com/in/satish-kushawaha-38245a206/
-
+💼 LinkedIn: [Satish Kushawaha](https://www.linkedin.com/in/satish-kushawaha-38245a206/)
 
 ---
 
-
+⭐ *Always learning, building, and improving.*
